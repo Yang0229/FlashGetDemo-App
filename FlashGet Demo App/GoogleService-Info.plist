@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>315146819556-un3bipf79s3q804q7fpd0o3jr0t5dqod.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.315146819556-un3bipf79s3q804q7fpd0o3jr0t5dqod</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-Kqjz8VIvf9Hz4OAcqaWJKopu1aVsIIE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>315146819556</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tinkerCodeStudio.TinkerY.FlashGet-Demo-App</string>
+	<key>PROJECT_ID</key>
+	<string>flashdelivery-demo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flashdelivery-demo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:315146819556:ios:293ee9993c5e8939</string>
+	<key>DATABASE_URL</key>
+	<string>https://flashdelivery-demo.firebaseio.com</string>
+</dict>
+</plist>
