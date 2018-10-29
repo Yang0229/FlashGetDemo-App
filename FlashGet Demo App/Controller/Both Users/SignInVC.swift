@@ -366,7 +366,7 @@ class SignInVC: UIViewController, UITextFieldDelegate, CLLocationManagerDelegate
     func setBgImageView(){
         
         bgImageView.image = UIImage(named: "bgImage")
-        bgImageView.frame = CGRect(x: 0, y: 0, width: (bgImageView.image?.size.width)!, height: (bgImageView.image?.size.height)!)
+        bgImageView.frame = CGRect(x: 0, y: 0, width: ((bgImageView.image?.size.width)! * self.view.frame.height / (bgImageView.image?.size.height)!), height: ((bgImageView.image?.size.height)! * self.view.frame.height / (bgImageView.image?.size.height)!))
         
         view.addSubview(bgImageView)
         view.sendSubviewToBack(bgImageView)

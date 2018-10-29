@@ -450,7 +450,7 @@
 "gaT-lz-cd5.text" = "*邮箱";
 
 /* Class = "UILabel"; text = "Description"; ObjectID = "gcb-gf-Hb2"; */
-"gcb-gf-Hb2.text" = "f备注";
+"gcb-gf-Hb2.text" = "备注";
 
 /* Class = "UILabel"; text = "*Phone"; ObjectID = "hIt-O7-GKN"; */
 "hIt-O7-GKN.text" = "*电话";
